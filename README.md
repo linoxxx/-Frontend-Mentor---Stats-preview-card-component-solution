@@ -9,16 +9,19 @@ https://ibb.co/JcXfCcr
 
 Links
 
-https://github.com/linoxxx/-Frontend-Mentor---Testimonials-grid-section
-Built with
+https://github.com/linoxxx/-Frontend-Mentor---Stats-preview-card-component-solution
 
-    Semantic HTML5 markup
-    CSS custom properties
-    Flexbox
-    CSS Grid
 
-Author
 
-    Frontend Mentor - @linoxxx
-    https://github.com/linoxxx
-    lino3127213@gmail.com
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+## Author
+
+- Frontend Mentor - @linoxxx
+- https://github.com/linoxxx
+- lino3127213@gmail.com
+
