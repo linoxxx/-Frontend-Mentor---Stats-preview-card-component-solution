@@ -7,11 +7,10 @@ Screenshot
 https://ibb.co/bQS5Rtq
 https://ibb.co/JcXfCcr
 
-Links
+### Links
 
-https://github.com/linoxxx/-Frontend-Mentor---Stats-preview-card-component-solution
-
-
+- Solution URL: https://github.com/linoxxx/-Frontend-Mentor---Stats-preview-card-component-solution
+- Live Site URL: https://frontend-mentor-stats-preview-card-component-solution.vercel.app/
 
 ### Built with
 
@@ -24,4 +23,3 @@ https://github.com/linoxxx/-Frontend-Mentor---Stats-preview-card-component-solut
 - Frontend Mentor - @linoxxx
 - https://github.com/linoxxx
 - lino3127213@gmail.com
-
