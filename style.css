@@ -51,6 +51,7 @@ body {
 
   width: auto;
   height: 294px;
+  background-size: cover;
 
 }
 
@@ -117,21 +118,19 @@ body {
 
     }
 
-    .image-header-holder {
-      grid-area: img;
-      background:
-       linear-gradient(
+  .image-header-holder {
+    grid-area: img;
+    background:
+     linear-gradient(
          hsla(276, 63%, 60%, 0.48),
          hsla(276, 63%, 60%, 0.48)
          ),
-        url("./images/image-header-desktop.jpg");
-
-      width: 540px;
-      height: 100%;
-      border-radius: 0 15px 15px 0;
-      background-size: cover;
-
-    }
+    url("./images/image-header-desktop.jpg");
+    width: 540px;
+    height: 100%;
+    border-radius: 0 15px 15px 0;
+    background-size: cover;
+  }
 
 
     .main {
